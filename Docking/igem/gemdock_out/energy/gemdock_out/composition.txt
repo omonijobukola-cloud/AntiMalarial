@@ -1,0 +1,3 @@
+#Compound	C.ring	N.ring	O.ring	O.other	S	#.of.Ring
+Protein-Ligand-3.pdb	17	3	4	1	1	16
+Protein-Ligand-0.pdb	17	3	4	1	1	16

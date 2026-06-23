@@ -1,0 +1,16 @@
+receptor = AF_A0A509ALM8_F1_model_v4_model1.pdbqt
+ligand = compound4.pdbqt
+
+out = out.pdbqt
+
+center_x = -1.071
+center_y = 5.981
+center_z = -6.931
+
+size_x = 50
+size_y = 50
+size_z = 50
+
+energy_range = 4
+
+exhaustiveness = 8

@@ -1,0 +1,68 @@
+REMARK
+REMARK Protein : Protein              Res. Num : 1069  Receptor Atom Num : 8798 
+REMARK Drug    : Ligand               Atom Num :   26  Single Bond Num   :    0 
+REMARK FitnessValue = HB&van der Waals + Elect + IntraEnergy
+REMARK  -112.310242 =  -112.310242 +     0.000000 +     0.000000
+REMARK
+HETATM    1  C   PRE Z 999      11.209 -13.478  10.956                       C
+HETATM    2  N   PRE Z 999      10.947 -13.973   9.707                       N
+HETATM    3  C   PRE Z 999       9.719 -14.744   9.699                       C
+HETATM    4  C   PRE Z 999       9.217 -14.652  11.134                       C
+HETATM    5  N   PRE Z 999      10.228 -13.859  11.809                       N
+HETATM    6  C   PRE Z 999       9.292 -16.075  11.602                       C
+HETATM    7  C   PRE Z 999       9.755 -16.888  10.628                       C
+HETATM    8  C   PRE Z 999       9.949 -18.211  10.657                       C
+HETATM    9  C   PRE Z 999      10.421 -18.842   9.576                       C
+HETATM   10  C   PRE Z 999      10.705 -18.148   8.469                       C
+HETATM   11  C   PRE Z 999      10.502 -16.828   8.437                       C
+HETATM   12  C   PRE Z 999      10.020 -16.199   9.514                       C
+HETATM   13  O   PRE Z 999       8.978 -16.447  12.707                       O
+HETATM   14  S   PRE Z 999      12.459 -12.600  11.343                       S
+HETATM   15  O   PRE Z 999       7.942 -14.103  11.330                       O
+HETATM   16  O   PRE Z 999       8.849 -14.284   8.701                       O
+HETATM   17  N   PRE Z 999      11.730 -13.769   8.624                       N
+HETATM   18  C   PRE Z 999      11.409 -14.266   7.511                       C
+HETATM   19  C   PRE Z 999      12.182 -14.064   6.440                       C
+HETATM   20  C   PRE Z 999      11.827 -14.614   5.208                       C
+HETATM   21  C   PRE Z 999      12.634 -14.404   4.091                       C
+HETATM   22  C   PRE Z 999      13.798 -13.644   4.205                       C
+HETATM   23  C   PRE Z 999      14.155 -13.095   5.436                       C
+HETATM   24  C   PRE Z 999      13.347 -13.305   6.554                       C
+HETATM   25  O   PRE Z 999      14.584 -13.440   3.119                       O
+HETATM   26  O   PRE Z 999      10.695 -15.351   5.098                       O
+CONECT    1    2    5   14
+CONECT    2    1    3   17
+CONECT    3    2    4   12   16
+CONECT    4    3    5    6   15
+CONECT    5    1    4   27
+CONECT    6    4    7   13
+CONECT    7    6    8   12
+CONECT    8    7    9   28
+CONECT    9    8   10   29
+CONECT   10    9   11   30
+CONECT   11   10   12   31
+CONECT   12    3    7   11
+CONECT   13    6
+CONECT   14    1
+CONECT   15    4   32
+CONECT   16    3   33
+CONECT   17    2   18
+CONECT   18   17   19   34
+CONECT   19   18   20   24
+CONECT   20   19   26   21
+CONECT   21   20   22   35
+CONECT   22   21   25   23
+CONECT   23   22   24   36
+CONECT   24   19   23   37
+CONECT   25   22   38
+CONECT   26   20   39
+DHBOND P 445 TYR 3667 O B <-> D  13 O A    -2.500000
+DHBOND P 445 TYR 3667 O B <-> D  15 O B    -1.376298
+DHBOND P 500 SER 4130 O B <-> D  15 O B    -2.500000
+DHBOND P 502 THR 4142 O B <-> D  15 O B    -2.500000
+DHBOND P 528 PRO 4324 O A <-> D  26 O B    -2.500000
+DHBOND P 531 LYS 4348 O A <-> D  16 O B    -2.500000
+DHBOND P 532 GLN 4353 N D <-> D  26 O B    -3.500000
+DHBOND P 532 GLN 4357 O A <-> D  16 O B    -2.500000
+DHBOND P 733 TRP 5983 N D <-> D  25 O B    -2.770517
+DHBOND P 736 GLU 6025 O A <-> D  25 O B    -2.445900

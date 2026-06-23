@@ -1,0 +1,3 @@
+Compound	Energy	VDW	HBond	Elec	
+Protein-Ligand-3.pdb	-112.543	-86.3271	-26.2156	0	
+Protein-Ligand-0.pdb	-112.31	-86.7813	-25.5288	0	
