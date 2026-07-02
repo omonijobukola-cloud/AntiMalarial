@@ -1,4 +1,0 @@
-#C:/Users/British Trans Atlant/Desktop/School project/Docking/igem/gemdock_out/Protein.pdb with C:/Users/British Trans Atlant/Desktop/School project/Docking/igem/gemdock_out/energy/gemdock_out/docking.lst
-#Ligand	TotalEnergy	VDW	HBond	Elec	AverConPair	
-Protein-Ligand-3.pdb	-112.543	-86.3271	-26.2156	0	24.3462
-Protein-Ligand-0.pdb	-112.31	-86.7813	-25.5288	0	24.9231
