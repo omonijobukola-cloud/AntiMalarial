@@ -27,13 +27,6 @@ Molecular docking using iGEMDOCK
 Target protein: FANCJ-like Helicase
 ADMET prediction
 
-## Repository Structure
-├── Thesis.pdf
-├── README.md
-├── Figures/
-├── Data/
-├── References/
-└── Scripts/ (future updates)
 
 ## Key Findings
 The study demonstrated that:
@@ -80,3 +73,5 @@ Bukola Omonijo
 
 
 
+<img width="509" height="574" alt="Protein-Protein-Ligand-3" src="https://github.com/user-attachments/assets/9335f29c-ea43-4d49-8b4c-c930936e4c37" />
+<img width="796" height="644" alt="3D 2" src="https://github.com/user-attachments/assets/c0a2da47-c1d9-44e6-acca-b28f907b344d" />
