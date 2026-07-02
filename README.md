@@ -1,4 +1,4 @@
-# Computational and Experimental Evaluation of Arylidene Hydrazilene Indenoimidazole Compounds Against Plasmodium berghei
+# IN-VIVO AND IN-SILICO STUDY ON THE EFFECTS OF ARYLIDENE HYDRAZINYL INDENOIMIDAZOLES ON Plasmodium berghei INFECTED RED BLOOD CELLS.
 
 ## Overview
 Malaria remains one of the world's leading infectious diseases, with the emergence of drug-resistant Plasmodium species posing a major challenge to current treatment strategies. Developing new antimalarial compounds and understanding how they interact with parasite targets are therefore critical areas of research.
